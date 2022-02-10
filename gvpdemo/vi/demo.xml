@@ -1,0 +1,13 @@
+<odoo>
+
+    <record id="ajaybhai" model="academy.teachers">
+        <field name="name">ajaybhai parikh</field>
+    </record>
+    <record id="dhirenbhai" model="academy.teachers">
+        <field name="name">dhirenbhai patel</field>
+    </record>
+    <record id="sanjaybhai" model="academy.teachers">
+        <field name="name">sanjaybhai nalvaya</field>
+    </record>
+
+</odoo>
