@@ -1,0 +1,37 @@
+<odoo>
+<template id="gvpact">
+	<t t-name="website.gvpact">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title o_colored_level pb0 pt0" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px;">
+              <span style="font-size: 36px;">
+                <u>Gvp Activities</u>
+              </span>
+            </font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_text_block pb40 o_colored_level pt24" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <p>Gujarat Vidyapith aspires to create a society based on Gandhian ideals. Thus, the institution has assured that the Gandhi’s vision of reconstructing the village and society is reflected in all of its programmes and activities. Priority is given on character building and tolerance of one another’s social, cultural, geographical, and linguistic distinctions.</p>
+          <p>Lectures on a variety of themes relating to social and economic peace are conducted at the institution to raise awareness among the students.</p>
+          <p>Some unique attributes of the institute are: the Gram Jivan Padyatra,Udyog activities, community living, Swabhiman Scholarship Program, and extension activities. These programmes are meticulously crafted by educationists and specialists who place a high priority on social peace and empathy.</p>
+          <p>The majority of the students are from the hinterland and are members of traditionally marginalized communities. As a response, rural centres develop their curriculum in accordance with local needs. Gujarati is used as a medium of education to facilitate learning for students at all levels.</p>
+          <p>Vidyapith’s Swachchhata Abhiyan- Gramsafai campaign involves all the students, faculty, and staff. The Institute conducts frequent awareness programmes in several of the nearby villages. In order to achieve its goal of rural intervention, the institute conducts various programmes such as de-addiction initiatives, gender sensitization, Shramdan, medical camps (blood donation and kidney awareness), school – related activities, cultural programmes, festival celebrations, government campaigns, and awareness rallies which include the participation of the villagers.</p>
+          <p>The Gramjivan Padyatra is a unique concept that has been implemented since 2007 and is also part of the curriculum. During the month of September/October (on the occasion of ‘Gandhi Jayanti,’ about 200 student teams go to various villages and stay for five days. Every year, students and faculty members visit more than 1000 villages. This is one of Gujarat Vidyapith’s most important practises for comprehending problems at the grassroots level. This programme instils in students a genuine concern for rural issues, cultural differences, and hardships. They get the opportunity to interact with teachers, Panchayat members, and other authorities to learn about the functioning of village level institutions such as Self-Help Groups, Co-operatives, Aanganwadis, and Schools, among others. Team spirit, discipline, collaboration, duties, and decision-making are all attributes that their active involvement inculcates.</p>
+          <p>The institution encourages students and faculty to participate in extension activities by assigning them to relief work and social events. NSS is a mandatory activity for all the students. In addition to regular NSS activities, students must spend at least seven days in a special camp in the rural areas to serve the community. During the summer vacation, Gujarat Vidyapith hosts special Summer Camps for students’ holistic development encouraging them to participate in activities such as Mountaineering Camp, Environment Awareness Week, Disaster Management Trainings, Photography Workshops, Skill Development Workshops, Youth Camps, and others.</p>
+          <p>Swachh Bharat Mission, Unnat Bharat Abhiyan, Beti Bachao–Beti Padhao Abhiyan, Saksharta Abhiyan,Students Start-up and Innovation Policy, Child Line-1098, and other government programmes are a regular practice in the Institution.</p>
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
+
+</template>
+</odoo>

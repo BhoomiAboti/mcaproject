@@ -1,0 +1,138 @@
+<odoo>
+<template id="chancellors">
+	<t t-name="website.chancellors">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title o_colored_level pb0 pt0" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px;">
+              <span style="font-size: 36px;">
+                <u>Chancellors</u>
+              </span>
+            </font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_product_list o_colored_level" data-snippet="s_product_list" data-name="Items" style="background-image: none;">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-4 col-6 o_colored_level col-lg-12 pt0 pb0" data-original-title="" title="" aria-describedby="tooltip512562">
+              <img src="/web/image/294-e908aa66/c1.jpg" alt="" class="img img-fluid o_we_image_cropped" loading="lazy" data-original-title="" title="" aria-describedby="tooltip51959" data-original-id="293" data-original-src="/web/image/293-2270d285/c1.jpg" data-mimetype="image/jpeg" style="" data-width="183" data-height="276.00000000000006" data-scale-x="1" data-scale-y="1" data-aspect-ratio="0/0"/>
+              <div class="s_product_list_item_link"><br/><br/><br/>Shree Ela Ramesh Bhatt<br/><font style="" class="text-600">From : 07-03-2015 (Continue...)</font></div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_product_list o_colored_level o_half_screen_height pb0 pt40" data-snippet="s_product_list" data-name="Items" style="background-image: none;">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-4 col-6 o_colored_level col-lg-4 pt0 pb0" style="">
+              <img src="/web/image/299-db85df30/c2.jpg" alt="" class="img img-fluid" loading="lazy" data-original-id="295" data-original-src="/web/image/295-7815eafb/c2.jpg" data-mimetype="image/jpeg" data-resize-width="198" data-original-title="" title="" aria-describedby="tooltip400358"/>
+              <br/>
+              <br/>
+              <span style="font-size: 18px;">
+                <font style="font-weight: bolder; font-size: 24px;" class="text-o-color-5">Mohandas k. Gandhi</font>
+              </span>
+              <br/>
+              <p>
+                <span style="font-size: 18px; font-weight: 400;">
+                  <font style="font-weight: bolder; font-size: 24px;" class="text-o-color-5">(Mahatma Gandhi)</font>
+                </span>
+              </p>
+              <p>
+                <span style="font-size: 18px; font-weight: 400;">18-10-1920 to 30-01-1948</span>
+                <br/>
+              </p>
+              <h3>
+                <span style="font-size: 18px;"/>
+                <br/>
+              </h3>
+              <div class="s_product_list_item_link">
+                <span style="font-size: 18px;"/>
+                <br/>
+              </div>
+            </div>
+            <div class="col-md-4 col-6 o_colored_level col-lg-4" style="">
+              <img src="/web/image/298-3f61e343/c3.jpg" alt="" class="img img-fluid" loading="lazy" data-original-id="296" data-original-src="/web/image/296-ce91213c/c3.jpg" data-mimetype="image/jpeg" data-resize-width="187"/>
+              <br/>
+              <br/>
+              <br/>
+              <span style="font-size: 18px;">14-06-1948 to 15-12-1950</span>
+              <br/>
+              <div class="s_product_list_item_link">
+                <h3>
+                  <span style="font-size: 18px;"/>
+                  <br/>
+                </h3>
+                <p>
+                  <span style="font-size: 18px;">
+                    <span style="font-size: 18px;">
+                      <font style="font-weight: bolder; font-size: 24px;" class="text-o-color-5">Sardar vallabhbhai patel</font>
+                    </span>
+                  </span>
+                </p>
+              </div>
+            </div>
+            <div class="col-md-4 col-6 o_colored_level col-lg-4 pb0" style="">
+              <img src="/web/image/300-587fa602/c4.jpg" alt="" class="img img-fluid" loading="lazy" data-original-title="" title="" aria-describedby="tooltip955" data-original-id="297" data-original-src="/web/image/297-092e2175/c4.jpg" data-mimetype="image/jpeg" data-resize-width="200"/>
+              <div class="s_product_list_item_link">
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <span style="font-size: 18px;"><br/><br/><font style="font-weight: bolder; font-size: 24px;" class="text-o-color-5"><br/><br/>Dr.Rajendra prasad</font><br/>14-03-1951 to 28-02-1963<br/></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_product_list o_colored_level pt0 pb0" data-snippet="s_product_list" data-name="Items" style="background-image: none;">
+        <div class="container-fluid">
+          <div class="row" data-original-title="" title="" aria-describedby="tooltip735944">
+            <div class="col-md-4 col-6 o_colored_level col-lg-4 pt0 pb32">
+              <img src="/web/image/307-b57dacf4/c5.jpg" alt="" class="img img-fluid" loading="lazy" data-original-id="302" data-original-src="/web/image/302-9d1f613a/c5.jpg" data-mimetype="image/jpeg" data-resize-width="209"/>
+              <div class="s_product_list_item_link">
+                <br/>
+                <span style="font-size: 18px;">
+                  <font style="font-weight: bolder; font-size: 24px;" class="text-o-color-5">Shree morarji Desai</font>
+                </span>
+                <br/>
+                <span style="font-size: 18px;">16-06-1963 to 10-04-1995</span>
+                <br/>
+              </div>
+            </div>
+            <div class="col-md-4 col-6 o_colored_level col-lg-4">
+              <img src="/web/image/305-3019cebe/c6.jpg" alt="" class="img img-fluid" loading="lazy" data-original-id="303" data-original-src="/web/image/303-c20ab46a/c6.jpg" data-mimetype="image/jpeg" data-resize-width="188"/>
+              <div class="s_product_list_item_link">
+                <span style="font-size: 18px;">
+                  <font style="font-weight: bolder; font-size: 24px;" class="text-o-color-5">Proffesor Ramlal Parikh</font>
+                </span>
+                <br/>
+                <span style="font-size: 18px;">
+                  <font style="font-weight: 400;" class="text-o-color-5">23-06-1996 to 21-11-1999</font>
+                </span>
+                <br/>
+              </div>
+            </div>
+            <div class="col-md-4 col-6 o_colored_level col-lg-4" style="">
+              <img src="/web/image/306-1b0f61cc/c7.jpg" alt="" class="img img-fluid" loading="lazy" data-original-id="304" data-original-src="/web/image/304-e45106d3/c7.jpg" data-mimetype="image/jpeg" data-resize-width="205"/>
+              <div class="s_product_list_item_link">
+                <span style="font-size: 24px; font-weight: bolder;">
+                  <font style="" class="text-o-color-5">Dr.Shusilabahen Nayair</font>
+                </span>
+                <br/>
+                <span style="font-size: 18px;">26-06-2000 to 03-01-2001</span>
+                <br/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
+
+</template>
+</odoo>

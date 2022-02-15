@@ -1,0 +1,100 @@
+<odoo>
+<template id="english">
+	<t t-name="website.english">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title o_colored_level pt0 pb8" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px;">
+              <span style="font-size: 36px;">
+                <u>DEPARTMENT OF ENGLISH</u>
+              </span>
+            </font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_title o_colored_level pb0 pt0" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px;"/>
+            <span style="font-size: 24px; font-weight: bolder;">
+              <font style="color: rgb(57, 132, 198);">About Us</font>
+            </span>
+          </h1>
+        </div>
+      </section>
+      <section class="s_text_block pb40 o_colored_level pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="container s_allow_columns"><p>The Department of English began with the Bachelor of English (BA) programme in June 2015. Two years later, in the year 2017, Master of English (MA) programme was added. The PhD programme began in the year 2021. The department has three permanent faculty members and three visiting faculty members. In the short span of six years, the department has been able to scale up from undergraduate to research level.</p><p>Being located in a remote village brings its own challenges of attracting students and other talents but due to the diligence of the staff members, the undergraduate programme has seen a steady growth in the number of students enrolled over the years. From a modest strength of 10 students in 2015, the undergraduate programme saw more than 50 students taking admission in the year 2021 in the first semester. The postgraduate programme is going steady and efforts are being made to attract more students. The department is proud of the fact that right from its inception in 2017, one student from each of the MA programme has passed NET or NET-JRF. The department is confident that with the beginning of its research programme, the academic environment will become more vibrant.</p><p>The BA programme spans three years and is spread over six semesters covering 20 major papers and 18 papers from different disciplines. The programme aims to cover the traditional aspects of literary studies as well as to expose students to newer fields where English studies are making inroads. The programme seeks to develop the passion for language and literature among its undergraduate students.</p><p>The MA programme is unique as it is firmly rooted in the ethos of Gujarat Vidyapith. Being a programme in a Gandhian education institute, it uses Gandhi’s thoughts as a pivot to look at the larger socio-political and cultural crisis of the contemporary world. The effort is initiate a dialogue among different points of view rather than affirming any one truth in all matters. The department makes effort to move out from the confines of classrooms and ingrained canonical thinking to look at the things from the margins and tries to unsettle the received canons of the literary studies.</p><p>The PhD programme at the department aims to promote research in interrogating Gandhian thoughts in literary and culture studies. The programme also wishes to encourage research in margin studies.</p><p>The department aims to become a place of vibrant academic and cultural activities. It seeks to become a place which brings the rural society into the mainstream academic discourse and action. The hope is to make the students and research scholars get in touch with the grassroots again and thus bridge the gap between theory in the classroom and diversity of the real world.</p>The Department offers the following programs:<ul><li>Doctor of Philosophy (Ph.D.) since 2021</li><li>Master of Arts (M.A.) since 2017</li><li>Bachelor of Arts (B.A.) since 2015</li></ul><p class="o_default_snippet_text"><br/></p></div>
+      </section>
+      <section class="s_faq_collapse pt32 pb32 o_colored_level" data-snippet="s_faq_collapse" data-name="Accordion" style="background-image: none;">
+        <div class="container">
+          <div id="myCollapse1644962446077" class="accordion" role="tablist">
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="card-header collapsed" data-target="#myCollapseTab1644962446078">
+                <span style="font-weight: bolder;">Vision</span>
+                <br/>
+              </a>
+              <div class="collapse" data-parent="#myCollapse1644962446077" role="tabpanel" id="myCollapseTab1644962446078" style="">
+                <div class="card-body">
+                  <p class="card-text o_default_snippet_text">To strive for academic excellence in English Studies by way of&amp;nbsp;incorporating Gandhian thought in order to promote research in literature and culture in service of the grassroots and the margins.<br/></p>
+                </div>
+              </div>
+            </div>
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="card-header collapsed" data-target="#myCollapseTab1644962446079">
+                <span style="font-weight: bolder;">Mission</span>
+                <br/>
+              </a>
+              <div class="collapse" data-parent="#myCollapse1644962446077" role="tabpanel" id="myCollapseTab1644962446079" style="">
+                <div class="card-body">
+                  <ul>
+                    <li>Help students&amp;nbsp;to acquire academic understanding of English Studies.</li>
+                    <li>Help students to develop skill and competency in the use of the English language.</li>
+                    <li>Integrate critical engagement with Gandhian thought at undergraduate, postgraduate, and research levels</li>
+                    <li>Promote interdisciplinary studies at the postgraduate and research level.</li>
+                    <li>Expand the scope of English Studies to accommodate literature and culture from around the world</li>
+                  </ul>
+                  <p class="card-text o_default_snippet_text">
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="card-header collapsed" data-target="#myCollapseTab1644962446080">
+                <span style="font-weight: bolder;">Affiliation</span>
+                <br/>
+              </a>
+              <div class="collapse" data-parent="#myCollapse1644962446077" role="tabpanel" id="myCollapseTab1644962446080" style="">
+                <div class="card-body">
+                  <p class="card-text o_default_snippet_text">Gujarat Vidyapith, Ahmedabad<br/></p>
+                </div>
+              </div>
+            </div>
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="true" class="card-header" data-target="#myCollapseTab1644962533705">
+                <span style="font-weight: bolder;">Student Teacher Ratio</span>
+                <br/>
+              </a>
+              <div class="collapse show" data-parent="#myCollapse1644962446077" role="tabpanel" id="myCollapseTab1644962533705" style="">
+                <div class="card-body">
+                  <p class="card-text">
+                    <strong>20:1</strong>
+                  </p>
+                  <p>Student Teacher Ratio</p>
+                  <p class="card-text">
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
+
+</template>
+</odoo>

@@ -1,0 +1,40 @@
+<odoo>
+	<template id="mission">
+		<t t-name="website.mission">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title o_colored_level pb0 pt0" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px;">
+              <span style="font-size: 36px;">
+                <u>Mission</u>
+              </span>
+            </font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_text_block pt40 pb40 o_colored_level" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <ol>
+            <li>To preserve, maintain and protect Gujarat Vidyapith as a living Gandhian Heritage&amp;nbsp;which played pivotal role in the Freedom Struggle movements and contributed&amp;nbsp;substantially towards National Education policy.</li>
+            <li>To educate the youth for social reconstruction in&amp;nbsp;Gram Swaraj&amp;nbsp;framework.<br/></li>
+            <li>To achieve integration between mainstream Higher Education curricula and Gandhian&amp;nbsp;thought, and also strive for academic excellence by conducting relevant research.<br/></li>
+            <li>To build character and inculcate the values of equity, tolerance, dignity of labour, and&amp;nbsp;self–reliance.<br/></li>
+            <li>To build skill and encourage productive work as an integral part of education.<br/></li>
+            <li>To&amp;nbsp;promote&amp;nbsp;education&amp;nbsp;in&amp;nbsp;the&amp;nbsp;mother&amp;nbsp;tongue&amp;nbsp;with&amp;nbsp;special&amp;nbsp;emphasis&amp;nbsp;on&amp;nbsp;Hindi–Hindustani.<br/></li>
+            <li>To promote Gandhian thought and practice at national and international level.<br/></li>
+            <li>To establish links with the disadvantaged communities in society through extension&amp;nbsp;activities.<br/></li>
+            <li>To strive for harmonious inter-community relationship for emotional integration</li>
+          </ol>
+          <p class="o_default_snippet_text">
+            <br/>
+          </p>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
+
+	</template>
+</odoo>

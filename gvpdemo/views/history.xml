@@ -1,0 +1,27 @@
+<odoo>
+	 <template id="history">
+	 	 <t t-name="website.history">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_text_block pt40 pb40 o_colored_level" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="s_allow_columns container">
+          <p>Gujarat Vidyapith was founded by Mahatma Gandhi on 18th October, 1920. Gujarat Vidyapith is a deemed university since 1963. Gujarat Vidyapith is funded by the U. G. C. (University Grants Commission) for higher education programs. It was started as Rashtriya Vidyapith (National Institute of University Education) and was the wake of the Non-cooperative Movement. Mahatma Gandhi remained its life-long Kulpati (Chancellor). The Institute imparts higher education with an integrated system of education teaching from the Nursery to the Doctorate level. The main objective is to prepare workers of character, ability, culture and dedication for the conduct of movements connected with the regeneration of country in accordance with the ideals given by Mahatma Gandhi. The guiding principles on which the integrated system of education, from Nursery &amp;amp; Basic Schools to Higher Secondary and from Bachelors to Master, M. Phil. &amp;amp; Doctorate level degree in various disciplines, is evolved include:-</p>
+          <ul>
+            <li>Adherence to truth and non-violence</li>
+            <li>Participation in productive work with a sense of dignity of labour</li>
+            <li>Acceptance of equality of religions</li>
+            <li>Priority for the need of villages dwellers in all curricula and</li>
+            <li>Use of mother-tongue as a medium of instructions.</li>
+          </ul>
+          <p>Accordingly, the education system of Gujarat Vidyapith include regular participation in community work, residential life, social service, community prayers, simple and self reliant living, study tours and field studies, Hand spinning and training in Craft Work. The program of education has been linked with the national needs of rural uplift with a view to promote education conductive to the grass – root levels of the society. The chief concern of the Gujarat Vidyapith is to conduct experiments in various fields of education with a view to develop the application of Gandhian thought and way in all aspects of education.</p>
+          <p class="o_default_snippet_text">
+            <br/>
+          </p>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
+
+	 </template>
+</odoo>

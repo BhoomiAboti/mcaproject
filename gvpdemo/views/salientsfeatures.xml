@@ -1,0 +1,66 @@
+<odoo>
+<template id="salientsfeatures">
+	<t t-name="website.salients-features">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title pt40 pb40 o_colored_level" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="s_allow_columns container">
+          <h1 style="text-align: center;">
+            <font style="font-size: 62px;">Salients Features</font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_text_block pt40 pb40 o_colored_level" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <ul>
+            <li>
+              <p style="text-align: left;">Strong foundation of Gandhian ideology.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">Value and activity based education system.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">Focus on rural &amp;amp; under privileged society .</p>
+            </li>
+            <li>
+              <p style="text-align: left;">Peaceful and prosperous campus with excellent infrastructural facilities.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">The teaching of Hindi-Hindustani shall be compulsory in the curricula of the Vidyapith.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">Extraordinary and unique method of life skill development through residential hostel facility.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">Wearing Khadi, prayer, spinning, community life, Padyatra and Udyog are compulsory.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">In laying down the priorities of education, the needs of the village-dwellers shall have principal consideration.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">Active Alumni Association.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">For the development of a healthy nation, physical exercise and training in manual work shall be made compulsory in all the institutions connected with the Vidyapith.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">Modest fee structure.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">100% placement opportunity.</p>
+            </li>
+            <li>
+              <p style="text-align: left;">Learned, dedicated and enthusiastic staff.</p>
+            </li>
+          </ul>
+          <p class="o_default_snippet_text">
+            <br/>
+          </p>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
+
+</template>
+</odoo>

@@ -1,0 +1,62 @@
+<odoo>
+	<template id="objective">
+		<t t-name="website.objective">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title pt40 pb40 o_colored_level" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px;">
+              <u>Objective</u>
+            </font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_text_block pt40 pb40 o_colored_level" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <ul>
+            <li>
+              <p>The Principal objective of the Vidyapith shall be to prepare through education, workers with character, ability, culture and conscientiousness necessary for the conduct of the movements connected with the regeneration of the country in accordance with the ideals given by Mahatma Gandhi.</p>
+            </li>
+            <li>
+              <p>The teachers and trustees of the Vidyapith shall restrict themselves to those means only which are not inconsistent with truth and non-violence and shall consciously strive to carry them out.</p>
+            </li>
+            <li>
+              <p>The teachers and trustees of the Vidyapith, as also all the institutions connected with it, shall regard untouchability as a blot on Hinduism, and shall strive to the best of their ability for its removal, and shall not exclude a boy or a girl for reason of his or her untouchability nor shall give him or her discriminatory treatment having once accorded admission to him or her.</p>
+            </li>
+            <li>
+              <p>The teachers and trustees of all the institutions connected with the Vidyapith shall regard hand-spinning as an essential part of the national regeneration movement and shall therefore spin regularly, except for unavoidable reasons and shall habitually wear khadi.</p>
+            </li>
+            <li>
+              <p>The mother tongue shall have principal place in the Vidyapith and shall be medium of instruction for all education. Explanation : Language other than Gujarati may be taught by the direct method.</p>
+            </li>
+            <li>
+              <p>The teaching of Hindi-Hindustani shall be compulsory in the curricula of the Vidyapith. Note : The Hindi-Hindustani means the language commonly spoken by the masses of the North, both, Hindu and Musalman, written in the Devnagari or the Persian script.</p>
+            </li>
+            <li>
+              <p>Vocational Training (Audyogic Shikshan) shall receive the same importance as intellectual education and only such occupations as are conducive to the nation shall be taught.</p>
+            </li>
+            <li>
+              <p>As the growth of the nation depends not on its cities but its villages, the bulk of the funds of the Vidyapith and large number of teachers shall be primarily employed in the propagation of national education (Rasthraposhak) in villages.</p>
+            </li>
+            <li>
+              <p>In laying down the priorities of education, the needs of the village-dwellers shall have principal consideration.</p>
+            </li>
+            <li>
+              <p>There shall be complete tolerance of all established religions in all institutions connected with the Vidyapith. For the spiritual development of the pupils, knowledge of religion shall be imparted in consonance with truth and non-violence.</p>
+            </li>
+            <li>
+              <p>For the development of a healthy nation, physical exercise and training in manual work shall be made compulsory in all the institutions connected with the Vidyapith.</p>
+            </li>
+          </ul>
+          <p class="o_default_snippet_text">
+            <br/>
+          </p>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
+
+	</template>
+</odoo>

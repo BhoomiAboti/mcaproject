@@ -1,0 +1,173 @@
+<odoo>
+<template id="IASE">
+<t t-name="website.iase">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title o_colored_level pb0 pt0" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px;">
+              <span style="font-size: 36px;">
+                <u>FACULTY OF EDUCATION</u>
+              </span>
+            </font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_title o_colored_level pb0 pt0" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="s_allow_columns container">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px;"/>
+            <span style="font-size: 24px; font-weight: bolder;">
+              <font style="" class="text-o-color-5">About Us</font>
+            </span>
+          </h1>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <p class="o_default_snippet_text">સને ૧૯૬૨થી જ શિક્ષણ વિદ્યાશાખામાં ગાંધી ચિંધ્યા મારગે શિક્ષત્વનું ઘડતર અને ચણતર થતું રહ્યું છે. B.Ed., B.Ed. (Hindi), M.Ed., M.Phil. અને Ph.D.માં પ્રવેશ મેળવનારા ભાવિ શિક્ષકોમાં ગાંધી મૂલ્યોનું સિંચન થાય તેવું વાતાવરણ પૂરું પાડવા માટે વિદ્યાશાખા પ્રારંભથી જ પ્રતિબદ્ધ રહી છે. વિદ્યાશાખામાં તૈયાર થતા શિક્ષકો સમાજ સાથે પૂરી નિસબતથી જોડાયેલા રહે અને સામાજિક પરિવર્તનમાં સક્રિય રહે તે માટે વિદ્યાશાખામાં અનેક પ્રવૃત્તિઓ પ્રયોગો થતા રહે છે. વર્ગખંડ શિક્ષણ, પ્રવચન, પ્રદર્શન, પ્રવાસ, પદયાત્રા, ગ્રામશિક્ષણ શિબિર, લઘુ સંશોધનો અને મુલાકાત દ્વારા ગાંધીજીના આદર્શો અનુસારનો શિક્ષક તૈયાર કરવાની અમારી મથામણ અવિરત ચાલું છે. છાત્રાલય જીવન અને સમૂહજીવનને કેન્દ્રમાં રાખીને અમે ભારતના ભાવિ નાગરિકમાં અપેક્ષિત ગુણો વિકસાવવાની નેમ સાથે વિદ્યાશાખા સતત આગળ ધપી રહી છે.</p>
+          <p>વિશિષ્ટ પ્રવૃત્તિ-પ્રયોગોની કદરરૂપે આ વિદ્યાશાખાને Institute of Advance Studies in Education (IASE) નો દરજ્જો પણ પ્રાપ્ત થયો છે. તેથી વિદ્યાશાખામાં માત્ર પૂર્વસેવાકાલીન નહીં, પરંતુ સેવાકાલીન તાલીમનું કામ પણ સમાંતરે ચાલી રહ્યું છે. પ્રાથમિક શાળાનાં શિક્ષકોથી માંડીને ઉચ્ચ શિક્ષણ સંસ્થાઓના અધ્યાપકોની અનેક તાલીમો, કાર્યશાળાઓ વિદ્યાશાખા સમાંતરે યોજે છે. નૂતન પ્રવાહ અનુસાર ગુજરાતના શિક્ષકો-અધ્યાપકોને સુસજ્જ બનાવવા માટે વિદ્યાશાખા અનેકવિધ કાર્યક્રમો હાથ ધરે છે.</p>
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_faq_collapse pb32 o_colored_level pt0" data-snippet="s_faq_collapse" data-name="Accordion" style="background-image: none;">
+        <div class="container">
+          <div id="myCollapse1644965688491" class="accordion" role="tablist">
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="card-header collapsed" data-target="#myCollapseTab1644965688492" style="text-align: left;">
+                <span style="font-weight: bolder;">Vision</span>
+                <br/>
+              </a>
+              <div class="collapse" data-parent="#myCollapse1644965688491" role="tabpanel" id="myCollapseTab1644965688492" style="">
+                <div class="card-body">
+                  <p class="card-text o_default_snippet_text">‘That which liberates is Knowledge’. Gujarat Vidyapith visualizes a sustainable<br/>non-violent society where every citizen is at peace and harmony with self, fellow<br/>human beings and nature (by nurturing self– discipline).<br/></p>
+                </div>
+              </div>
+            </div>
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="true" class="card-header" data-target="#myCollapseTab1644965688491" data-original-title="" title="" aria-describedby="tooltip540737">
+                <span style="font-weight: bolder;">Mission</span>
+              </a>
+              <div class="collapse show" data-parent="#myCollapse1644965688491" role="tabpanel" id="myCollapseTab1644965688491" style="">
+                <div class="card-body">
+                  <p>1. To preserve, maintain and protect Gujarat Vidyapith as a living Gandhian<br/>Heritage which played pivotal role in the Freedom Struggle movements and<br/>contributed substantially towards National Education policy.</p>
+                  <p>2. To educate the youth for social reconstruction in Gram Swaraj framework.</p>
+                  <p>3. To achieve integration between mainstream Higher Education curricula and Gandhian<br/>thought, and also strive for academic excellence by conducting relevant research.</p>
+                  <p>4. To build character and inculcate the values of equity, tolerance, dignity of labour, and self–reliance.</p>
+                  <p>5. To build skill and encourage productive work as an integral part of education.</p>
+                  <p>6. To promote education in the mother tongue with special emphasis on Hindi– Hindustani.</p>
+                  <p>7. To promote Gandhian thought and practice at national and international level.</p>
+                  <p>8. To establish links with the disadvantaged communities in society through extension activities.</p>
+                  <p>9. To strive for harmonious intercommunity relationship for emotional integration.</p>
+                  <p>In order to fulfill above Vision and Mission, Faculty of Education Trying to<br/>follow the curriculum framework provided by ncte based on Gandhian<br/>Philosophy. Each student has to to learn at least one paper of nai talim. The<br/>whole teacher training program Is arranged based on practice of&amp;nbsp; Nai Talim.<br/>Hostel life is considered as a part of education. Daily work start with prayer craft<br/>and Safai. Khadi is compulsory for each and every person in institute. Instruction<br/>is provided in mother tongue. Gram Shikshan Shivir, Gramjivan padyatra and<br/>Kendra Niwas are unique program conducted in the institute.</p>
+                  <p class="card-text o_default_snippet_text">
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="card-header collapsed" data-target="#myCollapseTab1644965688493">
+                <span style="font-weight: bolder;">Affiliation</span>
+                <br/>
+              </a>
+              <div class="collapse" data-parent="#myCollapse1644965688491" role="tabpanel" id="myCollapseTab1644965688493" style="">
+                <div class="card-body">
+                  <p>Department of Computer Science, Faculty of Management and Technology of started imparting computer education from the academic year 1987-88. The MCA Programme approved by the All India Council for Technical Education (AICTE). The Institute has been striving to make the education contemporary and relevant to the current and future global needs of globe.</p>
+                  <p>
+                    <strong>Permanent Institute ID : 1-43284521</strong>
+                  </p>
+                  <p class="card-text o_default_snippet_text">
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="card-header collapsed" data-target="#myCollapseTab1644965729024">
+                <span style="font-weight: bolder;">Student Teacher Ratio</span>
+                <br/>
+              </a>
+              <div class="collapse" data-parent="#myCollapse1644965688491" role="tabpanel" id="myCollapseTab1644965729024" style="">
+                <div class="card-body">
+                  <p class="card-text o_default_snippet_text">
+                    <strong>20:1</strong>
+                  </p>
+                  <p>Student Teacher Ratio</p>
+                  <p class="card-text o_default_snippet_text">
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title o_colored_level pb0 pt0" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h3>Announcement</h3>
+          <h1 style="text-align: center;">
+            <font style="font-size: 62px;"/>
+            <br/>
+          </h1>
+        </div>
+      </section>
+      <section class="s_timeline pt24 pb48 o_colored_level" data-snippet="s_timeline" data-name="Timeline" style="background-image: none;">
+        <div class="container s_timeline_line">
+          <div class="s_timeline_row d-block d-md-flex flex-row" data-name="Row">
+            <div class="s_timeline_date">
+              <br/>
+            </div>
+            <div class="s_timeline_content d-flex">
+              <div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+                <div class="card-body">
+                  <h5 class="card-title">Orientation Programme</h5>
+                  <p>
+                    <strong>વિદ્યાશાખામાં અભ્યાસ કરવા માટે પ્રવેશ મેળવનારા વિદ્યાર્થીઓના અભ્યાસ કાર્યની શરૂઆત અભિમુખતા શિબિરથી કરવામાં આવે છે. ત્રણ દિવસનો આ શિબિર શૈક્ષણિક વર્ષના પ્રારંભે યોજાય છે. શિબિર દરમિયાન વિદ્યાર્થીઓને ગૂજરાત વિદ્યાપીઠ, વિદ્યાપીઠના હેતુઓ, વિદ્યાપીઠનો ઈતિહાસ, વિદ્યાપીઠની કાર્યપ્રણાલી, સમૂહજીવન, છાત્રાલય વ્યવસ્થા, અભ્યાસક્રમ વગેરેથી પરિચિત કરાવવામાં આવે છે.</strong>
+                  </p>
+                  <h5 class="card-title">
+                    <br/>
+                  </h5>
+                </div>
+              </div>
+            </div>
+            <div class="s_timeline_content"/>
+          </div>
+          <div class="s_timeline_row d-block d-md-flex flex-row-reverse" data-name="Row">
+            <div class="s_timeline_date">
+              <span class="bg-white">
+                <b class="o_default_snippet_text"/>
+              </span>
+              <br/>
+            </div>
+            <div class="s_timeline_content d-flex">
+              <div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+                <div class="card-body">
+                  <p class="card-text o_default_snippet_text">
+                    <span style="font-weight: bolder;">Internship</span>
+                  </p>
+                  <p>
+                    <strong>વિદ્યાશાખામાં બી.એડ્. અને એમ.એડ્.માં અભ્યાસ કરતા વિદ્યાર્થીઓ માટે અભ્યાસના ભાગરૂપે કેન્દ્ર નિવાસ કાર્યક્રમ યોજાય છે.</strong>
+                  </p>
+                  <p>
+                    <strong>બી.એડ્.માં અભ્યાસ કરતા વિદ્યાર્થીઓ સત્ર-૩ દરમિયાન કેન્દ્ર નિવાસમાં જાય છે. કેન્દ્ર નિવાસનો સમયગાળો ૪ મહિનાનો છે. જેમાંથી ૨ મહિના ગુજરાતની કોઈ એક ઉત્તર બુનિયાદી શાળામાં અને ૨ મહિના કોઈ એક પ્રાથમિક શાળામાં પૂર્ણસમય જોડાય છે. કેન્દ્ર નિવાસ દરમિયાન વિદ્યાર્થી આચાર્ય-શિક્ષક-ગૃહપતિ અને વાલીની ભૂમિકાને નજીકથી સમજવાનો પ્રયાસ કરે છે. વિવિધ શૈક્ષણિક પ્રવૃત્તિઓ કરે છે અને શાળામાં દરરોજ સહઅભ્યાસક પ્રવૃત્તિનું આયોજન કરે છે.</strong>
+                  </p>
+                  <p class="card-text o_default_snippet_text">
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="s_timeline_content"/>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
+
+</template>
+</odoo>

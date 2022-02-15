@@ -1,0 +1,158 @@
+<odoo>
+<template id="anthropology">
+	<t t-name="website.anthropology">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title o_colored_level pb0 pt0" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1>
+            <span style="font-size: 36px;">
+              <u>DEPARTMENT OF SOCIAL ANTHROPOLOGY / SOCIOLOGY</u>
+            </span>
+          </h1>
+          <h1 style="text-align: center;">
+            <font style="font-size: 62px;"/>
+            <br/>
+          </h1>
+        </div>
+      </section>
+      <section class="s_title o_colored_level pb0 pt0" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px; color: rgb(57, 132, 198);">
+              <span style="font-size: 24px; font-weight: bolder;">About Us</span>
+            </font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_text_block pt40 o_colored_level pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <p>Department of Computer Science offers Post Graduate to Doctorate degree education in Computer Science. Department of Computer Science of Faculty of Management and Technology is started imparting computer education from the academic year 1987-88. The department has been striving to make the education contemporary and relevant to the current and future global needs of globe. Department of Computer Science established to undertake library computerization at Gujarat Vidyapith Library that is one of the richest library in the state. The department today provides support to Research and Analytical Project of various departments of Gujarat Vidyapith. The department also cater to the computerization needs of various departments located at Randheja and Sadra campus of Gujarat Vidyapith through local computer center at both campuses. The department has separate and exclusive building. The building has fully equipped with lecture rooms, office space for faculties, laboratory and Departmental Library. The MCA Program approved by the All India Council for Technical Education (AICTE).</p>
+          <p>The Department offers the following programs:</p>
+          <ul>
+            <li>Doctor of Philosophy (Ph.D.) since 1997</li>
+            <li>Master of Philosophy (M.Phil.) since 1996</li>
+            <li>Master of Computer Applications (MCA) (AICTE Approved) since 1994</li>
+            <li>Post Graduate Diploma in Computer Applications (PGDCA) since 1988</li>
+          </ul>
+          <p class="o_default_snippet_text">
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_faq_collapse pt32 pb32 o_colored_level" data-snippet="s_faq_collapse" data-name="Accordion" style="background-image: none;">
+        <div class="container">
+          <div id="myCollapse1644963221140" class="accordion" role="tablist">
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="card-header collapsed" data-target="#myCollapseTab1644963221141" data-original-title="" title="" aria-describedby="tooltip672772"/>
+              <a href="https://gujaratvidyapith.org/gujaratvidyapith.org/newsite/soc.htm">Vision</a>
+              <br/>
+              <div class="collapse" data-parent="#myCollapse1644963221140" role="tabpanel" id="myCollapseTab1644963221141" style="">
+                <div class="card-body">
+                  <p class="card-text o_default_snippet_text">Vision Statement Goes Here<br/></p>
+                </div>
+              </div>
+            </div>
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="card-header collapsed" data-target="#myCollapseTab1644963221142">Mission<br/></a>
+              <div class="collapse" data-parent="#myCollapse1644963221140" role="tabpanel" id="myCollapseTab1644963221142" style="">
+                <div class="card-body">
+                  <p class="card-text o_default_snippet_text">The mission of our department is to prepare knowledgeable software professionals who can adequately meet ever increasing demands of the IT industry.<br/></p>
+                </div>
+              </div>
+            </div>
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="card-header collapsed" data-target="#myCollapseTab1644963221143">Affiliation<br/></a>
+              <div class="collapse" data-parent="#myCollapse1644963221140" role="tabpanel" id="myCollapseTab1644963221143" style="">
+                <div class="card-body">
+                  <p>Department of Computer Science, Faculty of Management and Technology of started imparting computer education from the academic year 1987-88. The MCA Programme approved by the All India Council for Technical Education (AICTE). The Institute has been striving to make the education contemporary and relevant to the current and future global needs of globe.</p>
+                  <p>
+                    <strong>Permanent Institute ID : 1-43284521</strong>
+                  </p>
+                  <a href="https://gujaratvidyapith.org/gujaratvidyapith.org/newsite/soc.htm"/>
+                  <p class="card-text o_default_snippet_text">
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="card bg-white" data-name="Item">
+              <a href="#" role="tab" data-toggle="collapse" aria-expanded="true" class="card-header" data-target="#myCollapseTab1644963255037">Student Teacher Ratio<br/></a>
+              <div class="collapse show" data-parent="#myCollapse1644963221140" role="tabpanel" id="myCollapseTab1644963255037" style="">
+                <div class="card-body">
+                  <p class="card-text o_default_snippet_text">
+                    <strong>20:1</strong>
+                  </p>
+                  <p>Student Teacher Ratio</p>
+                  <p class="card-text">
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title o_colored_level pb0 pt0" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h3>
+            <font style="font-weight: bolder;" class="text-o-color-5">Announcements</font>
+          </h3>
+          <h1 style="text-align: center;">
+            <font style="font-size: 62px;"/>
+            <br/>
+          </h1>
+        </div>
+      </section>
+      <section class="s_timeline pt24 pb48 o_colored_level" data-snippet="s_timeline" data-name="Timeline" style="background-image: none;">
+        <div class="container s_timeline_line">
+          <div class="s_timeline_row d-block d-md-flex flex-row" data-name="Row">
+            <div class="s_timeline_date">
+              <span class="bg-white">
+                <b class="o_default_snippet_text">2019</b>
+              </span>
+            </div>
+            <div class="s_timeline_content d-flex">
+              <div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+                <div class="card-body">
+                  <h5 class="card-title o_default_snippet_text">Odoo Course</h5>
+                  <ul>
+                    <li>Odoo Course to start from December 16, 2021. Odoo Course to start from December 16, 2021. Odoo Course to start from December 16, 2021.</li>
+                  </ul>
+                  <h5 class="card-title o_default_snippet_text">
+                    <br/>
+                  </h5>
+                </div>
+              </div>
+            </div>
+            <div class="s_timeline_content"/>
+          </div>
+          <div class="s_timeline_row d-block d-md-flex flex-row-reverse" data-name="Row">
+            <div class="s_timeline_date">
+              <span class="bg-white">
+                <b class="o_default_snippet_text">2015</b>
+              </span>
+            </div>
+            <div class="s_timeline_content d-flex">
+              <div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+                <div class="card-body">
+                  <p class="card-text o_default_snippet_text">Intellectual Property Awareness Program</p>
+                  <ul>
+                    <li>Intellectual Property India (Govt. Of India) તથા SSIP Cell ગૂજરાત વિદ્યાપીઠ અને IQAC ના સંયુકત ઉપક્રમે (આઝાદી ના અમૃત મહોત્સવના ભાગરૂપે) Intellectual Property Awareness Program નું આયોજન તા.07/01/2022 ને શુક્રવારે- 3.00 to 4.00 PM (online mode)થી કરવામાં આવેલ છે.</li>
+                  </ul>
+                  <p class="card-text o_default_snippet_text">
+                    <br/>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="s_timeline_content"/>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
+
+</template>
+</odoo>

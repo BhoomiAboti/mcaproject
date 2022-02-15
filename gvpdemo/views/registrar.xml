@@ -1,0 +1,158 @@
+<odoo>
+<template id="registrar">
+	<t t-name="website.registrar">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title pt40 pb40 o_colored_level" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px;">
+              <span style="font-size: 36px;">
+                <u>Registrar</u>
+              </span>
+            </font>
+          </h1>
+        </div>
+      </section>
+      <article id="post-18415" class="post-18415 page type-page status-publish hentry">
+    <div class="entry-content">
+        <table border="0" width="700px" align="center">
+<tbody>
+<tr>
+<td colspan="4">
+<h2 style="text-align: center;">Registrar of Gujarat Vidyapith</h2>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<h2 style="text-align: center;">Dr. Nikhil Bhatt (I/C)</h2>
+<h4 style="text-align: center;">From : 16-06-2021 (Continue&#8230;)</h4>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td colspan="4" align="center">
+<h3 style="text-align: center;">Registrars of Gujarat Vidyapith</h3>
+</td>
+</tr>
+<tr>
+<td><strong>No.</strong></td>
+<td><strong>Name</strong></td>
+<td><strong>From</strong></td>
+<td><strong>To</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Shree Kishorlal Ghanshyamlal Mashruwala</td>
+<td>19-10-1920</td>
+<td>12-01-1921</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Shree Trikamlal Mansukhlal Shah</td>
+<td>13-01-1921</td>
+<td>20-03-1923</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Shree Kishorlal Ghanshyamlal Mashruwala</td>
+<td>21-03-1923</td>
+<td>05-12-1925</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Shree Nandlal Manilal Shah</td>
+<td>06-12-1925</td>
+<td>17-07-1927</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Shree Shyamlal Harilal Bhagavati</td>
+<td>18-07-1927</td>
+<td>30-01-1928</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Shree Narharibhai Dwarkadas Parikh</td>
+<td>31-01-1928</td>
+<td>02-08-1937</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Shree Maganbhai Prabhubhai Desai</td>
+<td>03-08-1937</td>
+<td>17-06-1961</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Shree Ramlalbhai Dahyabhai Parikh</td>
+<td>17-06-1961</td>
+<td>1970</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Shree Shantilal G. Gandhi</td>
+<td>01-02-1970</td>
+<td>10-06-1972</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Shree Vinodbhai Revashankar Tripathi</td>
+<td>(I/c) 11-06-1972</td>
+<td>01-04-1973</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Shree Vinodbhai Revashankar Tripathi</td>
+<td>01-04-1973</td>
+<td>24-06-1996</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Shree Shaileshbhai Kodarbhai Patel</td>
+<td>(I/c) 24-06-1996</td>
+<td>01-12-1998</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Shree Shaileshbhai Kodarbhai Patel</td>
+<td>01-12-1998</td>
+<td>30-11-2000</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Shree Piyushbhai Ramanlal Shah</td>
+<td>(I/c) 01-12-2000</td>
+<td>01-04-2004</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Dr. Rajendrabhai Khimani</td>
+<td>02-04-2004</td>
+<td>30-04-2019</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Dr. Bharatbhai Joshi</td>
+<td>(I/c) 01-05-2019</td>
+<td>16-06-2021</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Dr. Nikhil Bhatt</td>
+<td>16-06-2021</td>
+<td>Continue&#8230;</td>
+</tr>
+</tbody>
+</table>
+            </div><!-- .entry-content -->
+
+</article>
+    </div>
+  </t>
+</t>
+
+</template>
+</odoo>

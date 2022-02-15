@@ -3,17 +3,14 @@
 # 	* theme_bewise
 # 
 # Translators:
-# Martin Trigaux, 2021
-# liAnGjiA <liangjia@qq.com>, 2021
-# 黎伟杰 <674416404@qq.com>, 2021
 # Benson <Benson.Dr@Gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 14.0\n"
+"Project-Id-Version: Odoo Server 15.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-13 07:05+0000\n"
-"PO-Revision-Date: 2021-12-13 07:13+0000\n"
+"POT-Creation-Date: 2021-12-13 08:01+0000\n"
+"PO-Revision-Date: 2021-12-13 08:08+0000\n"
 "Last-Translator: Benson <Benson.Dr@Gmail.com>, 2022\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/odoo/teams/41243/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -23,51 +20,118 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_numbers
+msgid "16,456"
+msgstr "16,456"
+
+#. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_call_to_action
 msgid "<b>3,000 students</b> graduate each year find a job within 2 months"
 msgstr "<b>3,000名学生</b>每年毕业后2个月内找到工作"
 
 #. module: theme_bewise
-#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_cover
-msgid ""
-"<font style=\"font-size: 62px;font-weight: bold;\">Always at the top</font>"
-msgstr ""
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_company_team
+msgid "<b>Aline Turner, Law professor</b>"
+msgstr "<b>Aline Turner, 法学教授</b>"
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_quotes_carousel
-msgid ""
-"<span class=\"s_blockquote_author\"><b>Iris DOE</b> • Graduated in "
-"2019</span>"
-msgstr ""
-
-#. module: theme_bewise
-#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_quotes_carousel
-msgid ""
-"<span class=\"s_blockquote_author\"><b>Jane DOE</b> • Graduated in "
-"2017</span>"
-msgstr ""
-
-#. module: theme_bewise
-#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_quotes_carousel
-msgid ""
-"<span class=\"s_blockquote_author\"><b>John DOE</b> • Graduated in "
-"2016</span>"
-msgstr ""
-
-#. module: theme_bewise
-#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_numbers
-msgid "<span class=\"s_number display-4\">16,456</span>"
-msgstr ""
+msgid "<b>Iris DOE</b> • Graduated in 2019"
+msgstr "<b>Iris DOE</b> • 毕业于 2019"
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_company_team
-msgid "Aline Turner, <small><b>Law professor</b></small>"
+msgid "<b>Iris Joe, team leader professor</b>"
+msgstr "<b>Iris Joe, 团队领导教授</b>"
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_quotes_carousel
+msgid "<b>Jane DOE</b> • Graduated in 2017"
+msgstr "<b>Jane DOE</b> • 毕业于 2017"
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_quotes_carousel
+msgid "<b>John DOE</b> • Graduated in 2016"
+msgstr "<b>John DOE</b> • 毕业于 2016"
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_company_team
+msgid "<b>Mich Stark, IT Officer</b>"
+msgstr "<b>Mich Stark, 信息科技主管</b>"
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_company_team
+msgid "<b>Tony Fred, Faculty Head of IT</b>"
+msgstr "<b>Tony Fred, 信息科技部门主管</b>"
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_color_blocks_2
+msgid ""
+"<br/>\n"
+"        Are you searching for a school where cutting-edge programmes are taught, in a continually evolving environment and located in the heart of a dynamic city? You have just found it!\n"
+"        <br/>\n"
+"        <br/>"
 msgstr ""
+"<br/>\n"
+"        您是否正在寻找一所在不断发展的环境中教授尖端课程并位于充满活力的城市中心的学校? 你刚刚找到它!\n"
+"        <br/>\n"
+"        <br/>"
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_text_image
+msgid ""
+"<br/>\n"
+"        Teachers are selected among experts of their domains. They are not just professors, they are professionals in their field of expertise."
+msgstr ""
+"<br/>\n"
+"        教师是从各自领域的专家中挑选出来的. 他们不仅仅是教授，他们是他们专业领域的专业人士."
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_color_blocks_2
+msgid ""
+"<br/>\n"
+"        The small and modern campus is only a 10-minute walk away from the city centre and is easily accessible by car and public transport. It is also close to the train stations.\n"
+"        <br/>\n"
+"        <br/>"
+msgstr ""
+"<br/>\n"
+"        小而现代的校园距离市中心仅 10 分钟步行路程，可通过汽车和公共交通工具轻松抵达. 它也靠近火车站.\n"
+"        <br/>\n"
+"        <br/>"
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_image_text
+msgid ""
+"<br/>\n"
+"        We make sure that everyone blossoms. We keep a human size in a warm and modern setting. All students benefit from individualised support."
+msgstr ""
+"<br/>\n"
+"         我们确保每个人都开花结果. 我们保持在温暖而现代的环境中. 所有学生都受益于个性化的支持."
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_carousel
+msgid ""
+"<font class=\"bg-o-color-4\">Good copy starts with understanding how your "
+"product or service helps your customers. Simple words communicate better "
+"than big words and pompous language.</font>"
+msgstr ""
+"<font class=\"bg-o-color-4\">好的文案始于了解您的产品或服务如何帮助您的客户. "
+"简单的词比浮夸的语言更能传达消息.</font>"
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_picture
+msgid "A punchy Headline"
+msgstr "有力的标题"
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_image_text
 msgid "All students benefit from individualised support."
 msgstr "所有学生都受益于个性化的支持."
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_cover
+msgid "Always at the top"
+msgstr "永远在顶尖"
 
 #. module: theme_bewise
 #. openerp-web
@@ -78,9 +142,9 @@ msgid "Background Shape"
 msgstr "后台形状"
 
 #. module: theme_bewise
-#: model:ir.model.fields,field_description:theme_bewise.field_theme_utils__display_name
-msgid "Display Name"
-msgstr "显示名称"
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_comparisons
+msgid "Basic sales &amp; marketing"
+msgstr "基本销售和营销"
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_text_image
@@ -91,11 +155,6 @@ msgstr "卓越驱动"
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_numbers
 msgid "Faculties"
 msgstr "学院"
-
-#. module: theme_bewise
-#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_title
-msgid "Faculty Team"
-msgstr ""
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_quotes_carousel
@@ -110,9 +169,11 @@ msgstr "强大的支持和优质的课程! 导师可以帮助您前进，并且�
 msgid ""
 "He is professor in the Institute of Mechanics, Materials and Civil "
 "Engineering since 2000. He lectures in mechanical drawing and mechanical "
-"design for undergraduate and graduate students.   He is active in Problem "
-"and Project based learning. He is the promoter of 8 doctoral theses."
+"design for undergraduate and graduate students. He is active in Problem and "
+"Project based learning. He is the promoter of 8 doctoral theses."
 msgstr ""
+"自2000年起任教于力学、材料与土木工程学院教授. 他为主修和研究生讲授机械制图和机械设计. 他积极参与基于问题和专案的学习. "
+"他是8篇博士论文的推动者."
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_quotes_carousel
@@ -124,16 +185,6 @@ msgid ""
 msgstr ""
 "我学到了很多东西，在导师们的支持下，我实现了专业的专案! 团队始终处于领先地位，始终在寻找问题的解决方案，我感到被陪伴和支持! "
 "每天都不容易，但这是一次伟大的冒险!"
-
-#. module: theme_bewise
-#: model:ir.model.fields,field_description:theme_bewise.field_theme_utils__id
-msgid "ID"
-msgstr "ID"
-
-#. module: theme_bewise
-#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_company_team
-msgid "Iris Joe, <small><b>team leader professor</b></small>"
-msgstr ""
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_call_to_action
@@ -148,19 +199,9 @@ msgid ""
 msgstr "记者、导演、开发人员等在其卓越领域有效的工作."
 
 #. module: theme_bewise
-#: model:ir.model.fields,field_description:theme_bewise.field_theme_utils____last_update
-msgid "Last Modified on"
-msgstr "最后修改时间"
-
-#. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_numbers
 msgid "Libraries"
-msgstr "库"
-
-#. module: theme_bewise
-#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_company_team
-msgid "Mich Stark, <small><b>IT Officer</b></small>"
-msgstr ""
+msgstr "图书馆"
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_numbers
@@ -173,6 +214,16 @@ msgid ""
 "Our university has topped the The World University<br/>Rankings for a fifth "
 "consecutive year."
 msgstr "我们连续第五年<br/>位居世界大学排行榜榜首."
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_color_blocks_2
+msgid "Programmes"
+msgstr "规划"
+
+#. module: theme_bewise
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_banner
+msgid "Sell Online. <br/>Easily."
+msgstr "联机销售.<br/>轻而易举."
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_company_team
@@ -189,13 +240,6 @@ msgid "Students"
 msgstr "学生"
 
 #. module: theme_bewise
-#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_text_image
-msgid ""
-"Teachers are selected among experts of their domains. They are not just "
-"professors, they are professionals in their field of expertise."
-msgstr ""
-
-#. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_quotes_carousel
 msgid ""
 "Thanks to its innovative system, the school offers a diplomatic training "
@@ -203,14 +247,14 @@ msgid ""
 msgstr "由于其创新的系统，学校提供外交培训，在此期间我们有一个\"导师\"，一种\"导师\"!"
 
 #. module: theme_bewise
-#: model:ir.model,name:theme_bewise.model_theme_utils
-msgid "Theme Utils"
-msgstr "主题用途"
+#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_color_blocks_2
+msgid "The campus"
+msgstr "校园"
 
 #. module: theme_bewise
-#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_company_team
-msgid "Tony Fred, <small><b>Faculty Head of IT</b></small>"
-msgstr ""
+#: model:ir.model,name:theme_bewise.model_theme_utils
+msgid "Theme Utils"
+msgstr "主题工具"
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_company_team
@@ -221,13 +265,6 @@ msgid ""
 msgstr ""
 "Tony 分别于 1998 年和 2004 年获得机电工程学位和博士学位。在博士后经历后，他于 2006 年加入学校担任机电一体化教授. 2010 "
 "年，他成为 IT 负责人."
-
-#. module: theme_bewise
-#: model_terms:theme.ir.ui.view,arch:theme_bewise.s_image_text
-msgid ""
-"We make sure that everyone blossoms. We keep a human size in a warm and "
-"modern setting. All students benefit from individualised support."
-msgstr ""
 
 #. module: theme_bewise
 #: model_terms:theme.ir.ui.view,arch:theme_bewise.s_image_text

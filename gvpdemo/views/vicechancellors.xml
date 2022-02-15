@@ -1,0 +1,155 @@
+<odoo>
+<template id="vicechancellors">
+<t t-name="website.vice-chancellors">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title pt40 pb40 o_colored_level" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;" id="table_of_content_heading_1644944710593_117" data-anchor="true">
+            <font style="font-size: 62px;">
+              <span style="font-size: 36px;">
+                <u>Vice-chancellors</u>
+              </span>
+            </font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_table_of_content pt24 pb24 o_cc o_cc1 o_colored_level" data-snippet="s_table_of_content" data-name="Table of Content" style="background-image: none;">
+        <div class="container">
+          <div class="row s_nb_column_fixed">
+            <div class="s_table_of_content_navbar_wrap s_table_of_content_navbar_sticky d-print-none d-none d-lg-block o_not_editable o_cc o_cc1 o_colored_level pb80 s_table_of_content_horizontal_navbar col-lg-12" data-name="Navbar" style="" data-original-title="" title="" aria-describedby="tooltip789475">
+              <div class="s_table_of_content_navbar list-group o_no_link_popover list-group-horizontal-md" style=""/>
+            </div>
+            <div class="s_table_of_content_main oe_structure oe_empty o_colored_level col-lg-12" data-name="Content"/>
+          </div>
+        </div>
+      </section>
+      <table border="0" width="700px" align="center">
+<tbody>
+<tr>
+<td colspan="4">
+<h2 style="text-align: center;">Vice-Chacellor of Gujarat Vidyapith</h2>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<h2 style="text-align: center;">Dr. Rajendra Khimani</h2>
+<h4 style="text-align: center;">From : 29-06-2021 (continue&#8230;)</h4>
+</td>
+</tr>
+<tr>
+<td colspan="4" align="center">
+<h3 style="text-align: center;">Vice-Chancellors of Gujarat Vidyapith</h3>
+</td>
+</tr>
+<tr>
+<td><strong>No.</strong></td>
+<td><strong>Name</strong></td>
+<td><strong>From</strong></td>
+<td>To</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Shree Asudmal Tekchand Gidwani</td>
+<td>28-11-1920</td>
+<td>27-01-1924</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Shree Nrusinhprasad Kalidas Bhatt</td>
+<td>06-12-1926</td>
+<td>28-01-1928</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Shree Shri Dattatrey Balkrishna Kalelkar</td>
+<td>10-02-1928</td>
+<td>03-01-1935</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Shree Sardar Vallabhbhai Patel</td>
+<td>04-01-1935</td>
+<td>13-06-1948</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Shree Morarji Ranchhodji Desai</td>
+<td>14-06-1948</td>
+<td>16-06-1963</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Shree Thakorbhai Manibhai Desai</td>
+<td>16-06-1963</td>
+<td>15-06-1970</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Shree Ramlalbhai Dahyabhai Parikh</td>
+<td>01-09-1971</td>
+<td>22-07-1975</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Shree Dhirubhai Manibhai Desai</td>
+<td>23-07-1975</td>
+<td>31-01-1977</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Shree Dahyabhai Jivanlal Nayak</td>
+<td>18-10-1977</td>
+<td>20-10-1983</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Shree Ramlalbhai Dahyabhai Parikh</td>
+<td>20-10-1983</td>
+<td>22-06-1996</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Shree Govindbhai Jethalal Raval</td>
+<td>23-06-1996</td>
+<td>18-10-2000</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Shree Jitendrabhai Thakorbhai Desai</td>
+<td>19-10-2000</td>
+<td>22-10-2003</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Dr. Arunkumar Manubhai Dave</td>
+<td>23-10-2003</td>
+<td>31-05-2005</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Dr. Sudarshanbhai Iyengar</td>
+<td>01-08-2005</td>
+<td>31-12-2014</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Prof. Anamik Shah</td>
+<td>01-01-2015</td>
+<td>28-06-2021</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Dr. Rajendra Khimani</td>
+<td>29-06-2021</td>
+<td>Continue&#8230;</td>
+</tr>
+</tbody>
+</table>
+    </div>
+  </t>
+</t>
+
+
+</template>
+</odoo>

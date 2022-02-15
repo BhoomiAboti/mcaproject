@@ -1,0 +1,57 @@
+<odoo>
+  <template id="values">
+<t t-name="website.values">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title pt40 pb40 o_colored_level" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: left;">
+            <font style="font-size: 62px;" class="text-900">
+              <u>values</u>
+            </font>
+            <font style="font-size: 62px;"/>
+          </h1>
+        </div>
+      </section>
+      <section class="s_text_block pt40 pb40 o_colored_level" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="s_allow_columns container">
+          <p>Gujarat Vidyapith is committed to Gandhian values of Truth and Non-violence and seeks to inculcate a sense of commitment in its students for the reconstruction of the country in accordance with Gandhiji’s ideals.</p>
+          <ul>
+            <li>
+              <p>Will strive to remove social inequality and untouchability.</p>
+            </li>
+            <li>
+              <p>Will promote spinning wheel and encourage the use of&amp;nbsp; hand-spun, hand-woven&amp;nbsp;<em>Khadi.</em></p>
+            </li>
+            <li>
+              <p>Will have respect for all religions and encourage the academic community to pursue the values of Truth and Non- &amp;nbsp;&amp;nbsp;&amp;nbsp;violence &amp;nbsp;&amp;nbsp;through the study of religions.</p>
+            </li>
+            <li>
+              <p>Will give importance to the mother tongue and impart &amp;nbsp;&amp;nbsp;education through Gujarati and Hindi.</p>
+            </li>
+            <li>
+              <p>Will promote the use of Hindi and Hindustani through the Devnagari and Persian scripts.</p>
+            </li>
+            <li>
+              <p>Will give equal importance to industrial and intellectual education.</p>
+            </li>
+            <li>
+              <p>Will spread education in villages.</p>
+            </li>
+            <li>
+              <p>Will give importance to the hygienic and sanitation needs of the village community in its curriculum.</p>
+            </li>
+            <li>
+              <p>Will underline the importance of physical exercise and manual labour.</p>
+            </li>
+          </ul>
+          <p class="o_default_snippet_text">
+            <br/>
+          </p>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
+</template>
+</odoo>
